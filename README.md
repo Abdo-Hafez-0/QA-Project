@@ -1,3 +1,4 @@
+```
 QA_Project/
 ├─ data/
 │  ├─ raw/
@@ -18,3 +19,4 @@ QA_Project/
 ├─ presentation/
 ├─ documentation/
 └─ README.md
+```
